@@ -1,6 +1,8 @@
-# Blood Bank Management-System
-
-Blood Bank Donation System is a php based web project with both admin and user layouts.
+ITCS 6112-091- Fall 2023 – TERM PROJECT
+# Blood Bank Management System
+Blood Bank management System is a php based web project with both admin and user layouts.
+Submitted By: Group 1(“Blood Buddies”) 
+Team Members: Bulbul Roy(801365911), Gayathri Garine(801362273), Hari(801328029),  Lucky Kodwani (801276339), Sowmya Kanjula(801364329)
 
 # Installation
 
