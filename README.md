@@ -30,6 +30,8 @@ Sowmya Kanjula(801364329)
 9. After importing successfully.
 
 10. Open any browser and type http://localhost/BDMS/home.php to open User layout.
+
+11. To open SQL - http://localhost/phpmyadmin/index.php?route=/database/structure&db=blood_donation
      
 # Admin Panel
    Open any browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
